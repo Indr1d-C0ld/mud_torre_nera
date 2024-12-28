@@ -74,7 +74,7 @@ Cercasi appassionati e sviluppatori che possano raccogliere questo modello per p
 
         telnet 127.0.0.1 4000
 
-        Su Windows: Usa un client Telnet come PuTTY o il client creato con PyInstaller, dentro la cartella win_client.
+        Su Windows: Usa un client Telnet come PuTTY o usa PyInstaller per creare un EXE a partire dal file client.py.
 
 ## ** 6. Creazione e Gestione del Personaggio
 
